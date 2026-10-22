@@ -1,0 +1,3 @@
+interface:
+  display_name: "江泽民文选论文引文检索"
+  short_description: "检索江泽民文选一至三卷，匹配论文主题并核对原话、上下文和出处"

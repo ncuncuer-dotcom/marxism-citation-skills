@@ -1,0 +1,58 @@
+[
+  {
+    "id": "marx-engels",
+    "title": "马克思恩格斯文集",
+    "volumes": 10,
+    "skill": "marx-engels-wenji-research",
+    "data_env": "MARX_ENGELS_WENJI_DATA_DIR"
+  },
+  {
+    "id": "mao",
+    "title": "毛泽东文集",
+    "volumes": 8,
+    "skill": "mao-wenji-research",
+    "data_env": "MAO_WENJI_DATA_DIR"
+  },
+  {
+    "id": "deng",
+    "title": "邓小平文选",
+    "volumes": 3,
+    "skill": "deng-xiaoping-wenxuan-research",
+    "data_env": "DENG_XIAOPING_WENXUAN_DATA_DIR"
+  },
+  {
+    "id": "jiang",
+    "title": "江泽民文选",
+    "volumes": 3,
+    "skill": "jiang-zemin-wenxuan-research",
+    "data_env": "JIANG_WENXUAN_DATA_DIR"
+  },
+  {
+    "id": "hu",
+    "title": "胡锦涛文选",
+    "volumes": 3,
+    "skill": "hu-jintao-wenxuan-research",
+    "data_env": "HU_WENXUAN_DATA_DIR"
+  },
+  {
+    "id": "xi-governance",
+    "title": "习近平谈治国理政",
+    "volumes": 5,
+    "skill": "xi-governance-research",
+    "data_env": "XI_GOVERNANCE_DATA_DIR"
+  },
+  {
+    "id": "xi-dangjian",
+    "title": "习近平党建文选",
+    "volumes": 2,
+    "skill": "xi-dangjian-wenxuan-research",
+    "data_env": "XI_DANGJIAN_DATA_DIR"
+  },
+  {
+    "id": "xi-xuandu",
+    "title": "习近平著作选读",
+    "volumes": 2,
+    "skill": "xi-zhuzuo-xuandu-research",
+    "data_env": "XI_ZHUZUO_XUANDU_DATA_DIR"
+  }
+]
